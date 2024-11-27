@@ -21,7 +21,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
  
 ### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
@@ -30,6 +29,7 @@
  
 ### Other Knowledge:
 ![informatica](https://img.shields.io/badge/-informatica-0D1117?style=for-the-badge&logo=informatica&labelColor=0D1117)&nbsp;
+![microsoft-office (Basic)](https://img.shields.io/badge/-microsoft_office_(Basic)-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ![googlegemini](https://img.shields.io/badge/-googlegemini-0D1117?style=for-the-badge&logo=googlegemini&labelColor=0D1117)&nbsp;
 ![Figma (Basic)](https://img.shields.io/badge/-figma_(Basic)-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![vercel](https://img.shields.io/badge/-vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117)&nbsp;
