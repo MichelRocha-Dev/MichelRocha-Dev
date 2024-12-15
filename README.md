@@ -14,22 +14,22 @@
   </tr>
 </table>
 
-### 🎯 Foco
+### 🎯 Área de Especialização::
 <div>
- <p>Desenvolvedor Web Fullstack javascript com foco em | Front-end | .</p>
+ <p>Desenvolvedor Web Fullstack javascript com foco em | Front-end | </p>
 </div>
 
-### 💻 Dominio
+### 💻 Competências Técnicas:
 <div>
- <p>Domínio sólido de ( HTML, CSS e JavaScript ), com experiência na construção de interfaces responsivas e otimizadas para diferentes dispositivos.</p>
+ <p>Forte experiência em ( HTML, CSS e JavaScript ), com experiência na construção de interfaces responsivas e otimizadas para diferentes dispositivos.</p>
 </div>
 
-### 📖 Studying
+### 📖 Estudo e Aprimoramento:
 <div>
- <p>Atualmente, aprofundando meus conhecimentos em ( React, typescript, Node.js e bancos de dados ) para criar aplicações web robustas e escaláveis.</p>
+ <p>Atualmente, aprimorando minhas habilidades em JavaScript e expandindo meu conhecimento para incluir ( React, TypeScript, Node.js e bancos de dados ). Embora já tenha uma base sólida em JavaScript, estou continuamente aprendendo e me dedicando a dominar essas novas tecnologias para criar aplicações web robustas e escaláveis.</p>
 </div>
 
-### 🔎 Interresse / Oportunidade
+### 🔎 Oportunidades e Interesses Profissionais:
 <div>
  <p>Busco uma oportunidade em uma empresa inovadora que valorize o trabalho em equipe e a busca por soluções criativas. Tenho grande interesse em participar de projetos 
  desafiadores que envolvam o desenvolvimento de aplicações web escaláveis e performáticas.</p>
