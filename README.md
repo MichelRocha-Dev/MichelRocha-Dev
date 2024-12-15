@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-### 🎯 Área de Especialização::
+### 🎯 Área de Especialização:
 <div>
  <p>Desenvolvedor Web Fullstack javascript com foco em | Front-end | </p>
 </div>
