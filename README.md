@@ -6,7 +6,7 @@
 <table style="border: none;">
   <tr style="border: none;">
     <td style="width: 250px; border: none;">
-      <img src="https://media.licdn.com/dms/image/v2/C4E03AQHVbFarE6DgGw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1667945936009?e=1739404800&v=beta&t=vmG6ZU3e2s-E_Kz71ZAW5GfrsKvD7MkJljN9SeGceTA" alt="Michel Rocha" width="250" style="border-radius: 50%;"/>
+      <img src="https://avatars.githubusercontent.com/u/117951531?v=4" alt="Michel Rocha" width="250" style="border-radius: 50%;"/>
     </td>
     <td style="border: none;">
       <p>Olá! Meu nome é Michel Rocha e sou um estudante de Ciência da Computação na Unijorge. Tenho 23 anos e sou apaixonado por tecnologia e desenvolvimento. Atualmente, moro em Salvador, BA. Adoro aprender novas tecnologias e estou sempre em busca de desafios que me permitam crescer profissionalmente e pessoalmente.</p>
