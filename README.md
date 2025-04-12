@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff3300&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff3300&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Michel+Rocha+;I'm+23+years+old;I+am+from+Salvador,+BA;I+study+Computer+Science+at+Unijorge;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff3300&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Michel+Rocha+;I'm+23+years+old;I+am+from+Salvador,+BA;I+study+Software+Engineer+at+Unijorge;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 ### 🌎Bio
 <table style="border: none;">
@@ -9,7 +9,7 @@
       <img src="https://avatars.githubusercontent.com/u/117951531?v=4" alt="Michel Rocha" width="250" style="border-radius: 50%;"/>
     </td>
     <td style="border: none;">
-      <p>Olá! Meu nome é Michel Rocha e sou um estudante de Ciência da Computação na Unijorge. Tenho 23 anos e sou apaixonado por tecnologia e desenvolvimento. Atualmente, moro em Salvador, BA. Adoro aprender novas tecnologias e estou sempre em busca de desafios que me permitam crescer profissionalmente e pessoalmente.</p>
+      <p>Olá! Meu nome é Michel Rocha e sou um estudante de Engenharia de Software na Unijorge. Tenho 23 anos e sou apaixonado por tecnologia e desenvolvimento. Atualmente, moro em Salvador, BA. Adoro aprender novas tecnologias e estou sempre em busca de desafios que me permitam crescer profissionalmente e pessoalmente.</p>
     </td>
   </tr>
 </table>
