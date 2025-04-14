@@ -6,7 +6,7 @@
 <table style="border: none;">
   <tr style="border: none;">
     <td style="width: 250px; border: none;">
-      <img src="https://avatars.githubusercontent.com/u/117951531?v=4" alt="Michel Rocha" width="250" style="border-radius: 50%;"/>
+      <img src="perfilemoji.png" alt="Imagem do meu PC" width="250"  style="border-radius: 50%;"/>
     </td>
     <td style="border: none;">
       <p>Olá! Meu nome é Michel Rocha e sou um estudante de Engenharia de Software na Unijorge. Tenho 23 anos e sou apaixonado por tecnologia e desenvolvimento. Atualmente, moro em Salvador, BA. Adoro aprender novas tecnologias e estou sempre em busca de desafios que me permitam crescer profissionalmente e pessoalmente.</p>
